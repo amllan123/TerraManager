@@ -1,0 +1,3 @@
+{
+  "ignore": ["workspaces/*", "terraform_modules/*", "*.tfstate", "*.json"]
+}
